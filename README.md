@@ -43,8 +43,8 @@ This repository contains a simple implementation of a Convolutional Neural Netwo
 
    
 ## Dependencies
-python
-numpy
+-python
+-numpy
 
    
 ## Notes
